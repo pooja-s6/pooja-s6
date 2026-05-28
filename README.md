@@ -1,17 +1,10 @@
-<!-- Header Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pooja%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Backend%20%26%20Cloud%20Enthusiast%20%7C%20AI%20Explorer&descAlignY=52&descSize=16"/>
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pooja%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Backend%20%26%20Cloud%20Enthusiast%20%7C%20AI%20Explorer&descAlignY=52&descSize=16)
 
-<!-- Typing animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7B2FBE&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Pooja+%F0%9F%91%8B;Full+Stack+Developer+from+Chennai+%F0%9F%87%AE%F0%9F%87%B3;Building+AI-powered+products+%F0%9F%A4%96;Backend+%2B+Cloud+is+my+jam+%E2%98%81%EF%B8%8F;Currently+%40+Hexaware+Technologies" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7B2FBE&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Pooja;Full+Stack+Developer+from+Chennai;Building+AI-powered+products;Backend+%2B+Cloud+is+my+jam;Currently+%40+Hexaware+Technologies" alt="Typing SVG" />
+</p>
 
-<br/>
-
-<!-- Social Badges -->
-<div align="center">
+<p align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pooja-pink.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pooja-s2006)
@@ -19,9 +12,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pooja_0606/)
 [![SkillRack](https://img.shields.io/badge/SkillRack-1C033C?style=for-the-badge&logoColor=white)](https://skillrack.com/faces/ui/profile.xhtml;jsessionid=BBFDD73DCAEFFBA9C308205CED95B58D)
 
-</div>
-
-<br/>
+</p>
 
 ---
 
@@ -143,23 +134,19 @@ interests  : Building products that actually ship 🚀
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pooja-s6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooja-s6&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
-</div>
+</p>
 
-<br/>
-
-<div align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=pooja-s6&theme=tokyonight&hide_border=true&ring=7B2FBE&fire=7B2FBE&currStreakLabel=7B2FBE"/>
-</div>
+</p>
 
-<br/>
-
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pooja-s6&theme=tokyo-night&hide_border=true&area=true&area_color=7B2FBE"/>
-</div>
+</p>
 
 ---
 
@@ -194,15 +181,12 @@ interests  : Building products that actually ship 🚀
 
 ---
 
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
-<div align="center">
+<p align="center">
   <i>⚡ "Build things. Break things. Learn everything." ⚡</i>
   <br/><br/>
   <a href="https://portfolio-pooja-pink.vercel.app/">🌐 Portfolio</a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/pooja-s2006">💼 LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:poojasuku0606@gmail.com">📧 Email</a>
-</div>
+</p>
