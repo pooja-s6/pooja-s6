@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pooja%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Backend%20%26%20Cloud%20Enthusiast%20%7C%20AI%20Explorer&descAlignY=52&descSize=16)
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7B2FBE&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Pooja;Full+Stack+Developer+from+Chennai;Building+AI-powered+products;Backend+%2B+Cloud+is+my+jam;Currently+%40+Hexaware+Technologies" alt="Typing SVG" />
