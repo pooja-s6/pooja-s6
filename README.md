@@ -1,8 +1,7 @@
+<h1 align="center">Hi, I'm Pooja S 👋</h1>
+<h3 align="center">Full Stack Developer · Backend & Cloud Enthusiast · AI Explorer</h3>
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7B2FBE&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Pooja;Full+Stack+Developer+from+Chennai;Building+AI-powered+products;Backend+%2B+Cloud+is+my+jam;Currently+%40+Hexaware+Technologies" alt="Typing SVG" />
-</p>
+<br/>
 
 <p align="center">
 
@@ -20,9 +19,7 @@
 
 ```yaml
 name       : Pooja S
-location   : Chennai, India
 degree     : B.E. CSE (Honours in Data Science) — CGPA 8.57/10
-company    : Hexaware Technologies (Current Intern)
 focus      : Full Stack Development · Backend Systems · Cloud · GenAI
 learning   : RAG Pipelines · LLM Integration · AWS · NNDL
 interests  : Building products that actually ship 🚀
@@ -34,7 +31,6 @@ interests  : Building products that actually ship 🚀
 
 | | Company | Role | Period | What I Built |
 |---|---|---|---|---|
-| 🏢 | **Hexaware Technologies** | Backend Intern *(FastAPI)* | Feb 2026 – Present | Mobile AI education platform — FastAPI backend + React Native |
 | 🎓 | **FlyHigh Educational Institute** | Full Stack Intern | Oct 2025 – Jan 2026 | EduFlex — real-time quiz platform for 100+ students |
 | 💻 | **Infosys Springboard** | Java Developer Intern | Nov 2025 – Jan 2026 | Legal Aid Matching Platform — team of 5 |
 | 🌐 | **AVPS Technologies, USA** | Full Stack Intern | Dec 2024 – Sep 2025 | VocalMart — voice search e-commerce platform |
@@ -80,7 +76,7 @@ interests  : Building products that actually ship 🚀
 <td width="50%">
 
 ### 🛒 VocalMart — Voice E-Commerce
-> Voice search-enabled shopping platform built during AVPS internship
+> Voice search-enabled shopping platform
 
 **Stack:** `Spring Boot` `React` `MongoDB`
 
@@ -171,17 +167,6 @@ interests  : Building products that actually ship 🚀
 | AI/ML Internship | IBM SkillsBuild | 2025 |
 
 ---
-
-## 🚀 Currently
-
-- 💼 Interning @ **Hexaware Technologies** — FastAPI backend for AI mobile app
-- 📚 Deep diving into **RAG systems + LLM integration**
-- ☁️ Expanding skills in **AWS cloud architecture**
-- 🎯 Placement season — open to **Full Stack / Backend Developer roles**
-
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 <p align="center">
   <i>⚡ "Build things. Break things. Learn everything." ⚡</i>
