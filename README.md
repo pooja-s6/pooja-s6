@@ -32,6 +32,7 @@ interests  : Building products that actually ship 🚀
 
 | | Company | Role | Period | What I Built |
 |---|---|---|---|---|
+| 🏢 | **Hexaware Technologies** | Backend Intern *(FastAPI)* | Feb 2026 – Present | Mobile AI education platform — FastAPI backend + React Native |
 | 🎓 | **FlyHigh Educational Institute** | Full Stack Intern | Oct 2025 – Jan 2026 | EduFlex — real-time quiz platform for 100+ students |
 | 💻 | **Infosys Springboard** | Java Developer Intern | Nov 2025 – Jan 2026 | Legal Aid Matching Platform — team of 5 |
 | 🌐 | **AVPS Technologies, USA** | Full Stack Intern | Dec 2024 – Sep 2025 | VocalMart — voice search e-commerce platform |
