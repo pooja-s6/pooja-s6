@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Pooja S 👋</h1>
-<h3 align="center">Full Stack Developer · Backend & Cloud Enthusiast · AI Explorer</h3>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7B2FBE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+%2B+Cloud+Enthusiast;AI+Explorer+%7C+LLMs+%2B+RAG;Open+to+Full+Stack+%2F+Backend+Roles" alt="Typing SVG" />
+</p>
 
 <p align="center">
 
