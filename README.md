@@ -28,14 +28,14 @@ interests  : Building products that actually ship 🚀
 
 ---
 
-## 💼 Experience Snapshot
+## 💼 Experience
 
 | | Company | Role | Period | What I Built |
 |---|---|---|---|---|
-| 🏢 | **Hexaware Technologies** | Backend Intern *(FastAPI)* | Feb 2026 – Present | Mobile AI education platform — FastAPI backend + React Native |
-| 🎓 | **FlyHigh Educational Institute** | Full Stack Intern | Oct 2025 – Jan 2026 | EduFlex — real-time quiz platform for 100+ students |
-| 💻 | **Infosys Springboard** | Java Developer Intern | Nov 2025 – Jan 2026 | Legal Aid Matching Platform — team of 5 |
-| 🌐 | **AVPS Technologies, USA** | Full Stack Intern | Dec 2024 – Sep 2025 | VocalMart — voice search e-commerce platform |
+| 🏢 | **Hexaware Technologies** | Backend Intern *(FastAPI)* | Feb 2026 – Present | Mobile AI education platform — FastAPI backend + React Native frontend |
+| 🎓 | **FlyHigh Educational Institute** | Full Stack Intern | Oct 2025 – Jan 2026 | QuizFlow — real-time quiz platform actively used by 100+ students |
+| 💻 | **Infosys Springboard** | Java Developer Intern | Nov 2025 – Jan 2026 | Legal Aid Matching Platform — 5-member team, 3+ backend modules |
+| 🌐 | **AVPS Technologies, USA** | Full Stack Intern | Dec 2024 – Sep 2025 | VocalMart — voice search e-commerce platform, 9-month end-to-end delivery |
 
 ---
 
@@ -67,7 +67,7 @@ interests  : Building products that actually ship 🚀
 <tr>
 <td width="50%">
 
-### 📝 EduFlex — Real-Time Quiz App
+### 📝 QuizFlow — Real-Time Quiz Platform
 > Quiz platform actively used by 100+ students with live leaderboards
 
 **Stack:** `React` `Firebase` `Vercel`
@@ -78,11 +78,11 @@ interests  : Building products that actually ship 🚀
 <td width="50%">
 
 ### 🛒 VocalMart — Voice E-Commerce
-> Voice search-enabled shopping platform
+> Voice search-enabled full stack shopping platform
 
 **Stack:** `Spring Boot` `React` `MongoDB`
 
-✅ Voice-driven search &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; Full stack delivery
+✅ Web Speech API integration &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; Full stack delivery
 
 </td>
 </tr>
