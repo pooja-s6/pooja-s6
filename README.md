@@ -4,7 +4,7 @@
 
 <img align="right" width="300" src="coding.gif" alt="Coding" />
 
-- 🎓 **B.E. CSE** student, Honours in **Data Science** · CGPA **8.57**.
+- 🎓 **B.E. CSE** student, Honours in **Data Science** · CGPA **8.64**.
 - 💻 A **full stack developer** who likes shipping products people actually use.
 - 🏢 Backend Intern at **Hexaware** — FastAPI backend and a React Native app.
 - 🤖 Building with **LLMs**, **RAG**, and real user flows.
