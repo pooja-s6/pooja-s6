@@ -18,7 +18,7 @@
 
 ## About
 
-Computer Science student (B.E. CSE, Honours in Data Science, **CGPA 8.57**) who ships full products: APIs, frontends, and LLM features. Currently a **Backend Intern at Hexaware**, building a mobile AI education platform with FastAPI and React Native.
+Computer Science student (B.E. CSE, Honours in Data Science, **CGPA 8.64**) who ships full products: APIs, frontends, and LLM features. Currently a **Backend Intern at Hexaware**, building a mobile AI education platform with FastAPI and React Native.
 
 | | |
 |---|---|
