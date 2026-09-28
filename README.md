@@ -126,25 +126,15 @@
 
 <h3 align="left">🏆 Highlights</h3>
 
-- 6th place, Debug Relay (team event), REC College · 2026
 - Cognizant Hackathon participant · 2026
 - Smart India Hackathon internal round, VEC · 2025
-- Java Foundation (Infosys Springboard) · AI Fundamentals and AI/ML Internship (IBM SkillsBuild) · AWS Solutions Architecture Simulation (Forage) · 2025
+- Java Foundation — Infosys Springboard · 2025
+- AI Fundamentals and AI/ML Internship — IBM SkillsBuild · 2025
+- AWS Solutions Architecture Simulation — Forage · 2025
 
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pooja-s6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooja-s6&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pooja-s6&bg_color=0d1117&color=c9d1d9&line=7B2FBE&point=c084fc&area=true&hide_border=true" alt="Contribution graph" />
-</div>
-
-###
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pooja-s6/pooja-s6/output/pacman-contribution-graph-dark.svg">
