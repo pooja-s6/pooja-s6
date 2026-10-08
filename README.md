@@ -122,17 +122,7 @@
 - **Legal Aid Matching Platform** — connects NGOs, lawyers, and citizens. `React` `Spring Boot` `PostgreSQL`
 - **VocalMart** — shopping with voice search. `Spring Boot` `React` `MongoDB`
 
-###
 
-<h3 align="left">🏆 Highlights</h3>
-
-- Cognizant Hackathon participant · 2026
-- Smart India Hackathon internal round, VEC · 2025
-- Java Foundation — Infosys Springboard · 2025
-- AI Fundamentals and AI/ML Internship — IBM SkillsBuild · 2025
-- AWS Solutions Architecture Simulation — Forage · 2025
-
-###
 
 <br clear="both">
 
